@@ -1,10 +1,11 @@
+
 # EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
 
- #### NAME :
- #### REGISTER NUMBER :
- #### DEPARTMENT 
- #### YEAR 
+ #### NAME : PAIDA RAM SAI
+ #### REGISTER NUMBER : 212223110034
+ #### DEPARTMENT : CSE(IoT)
+ #### YEAR : IV
 
  
 # Aim:
@@ -82,19 +83,16 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 
 # Simulation Screenshots 
 
+<img width="1496" height="525" alt="Screenshot 2026-07-27 150436" src="https://github.com/user-attachments/assets/a0d3665c-71f8-4792-af45-8761dd8c46a1" />
+<img width="687" height="385" alt="Screenshot 2026-07-27 150505" src="https://github.com/user-attachments/assets/89ca5824-6b71-4280-bb93-69c3fb79b178" />
+<img width="685" height="402" alt="Screenshot 2026-07-27 150514" src="https://github.com/user-attachments/assets/a5284021-b5b2-4cd6-a245-a19b536cfde3" />
+<img width="793" height="522" alt="Screenshot 2026-07-27 150527" src="https://github.com/user-attachments/assets/72bd03b9-e909-4e7e-89de-ae5311e2b3cb" />
+<img width="658" height="407" alt="Screenshot 2026-07-27 150535" src="https://github.com/user-attachments/assets/f19b83da-2970-4838-afc4-9c153b7c3bea" />
+<img width="662" height="400" alt="Screenshot 2026-07-27 150553" src="https://github.com/user-attachments/assets/6eea2b80-ed68-4007-8a09-fec76285d5c7" />
+<img width="695" height="387" alt="Screenshot 2026-07-27 150604" src="https://github.com/user-attachments/assets/4104b0ba-aded-4064-9525-439236e1c5f2" />
+<img width="791" height="547" alt="Screenshot 2026-07-27 150615" src="https://github.com/user-attachments/assets/9f1713b3-8583-4220-b40a-ca3b42b98dc7" />
 
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1915" height="983" alt="Screenshot 2026-07-27 150124" src="https://github.com/user-attachments/assets/b5021431-f1a6-4f2c-a070-12393127abb8" />
 
 # Results:
 The ladder logic programs for ON-delay, OFF-delay, and Retentive timers were successfully implemented and tested.
